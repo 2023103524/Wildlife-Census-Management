@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Wildlife-Census-Management
-=======
 # Wildlife Census Management System
 
 A comprehensive system for managing wildlife census data, including species tracking, location management, and census record keeping.
@@ -121,4 +118,4 @@ The frontend application will run on http://localhost:3000
 ## License
 
 This project is licensed under the MIT License. 
->>>>>>> 49e6510 (Initial commit - Wildlife Census Management Project)
+(Initial commit - Wildlife Census Management Project)
